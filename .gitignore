@@ -4,5 +4,4 @@
 .vscode/launch.json
 .vscode/ipch
 sdkconfig*
-managed_components
 lib/esp-matter
